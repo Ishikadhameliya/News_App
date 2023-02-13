@@ -1,16 +1,5 @@
-# news_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-02-13-22-24-32-39](https://user-images.githubusercontent.com/121867953/218523210-5fa3c655-8abc-4d4e-9428-bac38417a9fe.jpg)
+![Screenshot_2023-02-13-22-25-21-00_a467d51f7ea0378ee50edb6aac94ed60](https://user-images.githubusercontent.com/121867953/218523247-d267b52a-6518-411b-884c-884a362669af.jpg)
+![Screenshot_2023-02-13-22-24-39-03_a467d51f7ea0378ee50edb6aac94ed60](https://user-images.githubusercontent.com/121867953/218523287-dea7d38a-b0f4-4304-8dc4-4b692304c5ce.jpg)
+![Screenshot_2023-02-13-22-25-38-09_a467d51f7ea0378ee50edb6aac94ed60](https://user-images.githubusercontent.com/121867953/218523311-0fe55ed8-b130-4dc5-ba3f-6bf5928a5037.jpg)
+![Screenshot_2023-02-13-22-26-11-33_a467d51f7ea0378ee50edb6aac94ed60](https://user-images.githubusercontent.com/121867953/218523337-8ff0f8a2-f92e-4732-b110-a465fe0666cf.jpg)
